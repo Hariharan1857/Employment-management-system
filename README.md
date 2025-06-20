@@ -6,3 +6,14 @@ Key Features:
 Add, update, search, and delete employee records
 Intuitive GUI design for smooth user interaction
 Reliable backend integration using SQLite_3 for secure and persistent data storage
+
+Tools used:
+
+Python
+Tkinter
+SqLite3
+
+
+
+
+
